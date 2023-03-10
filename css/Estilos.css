@@ -1,6 +1,10 @@
 body 
 {
+<<<<<<< HEAD
     color: #333;
+=======
+    color: #331;
+>>>>>>> cabecera
     text-aling: left;
     font-family: "arial";
     font-size: 16px;
@@ -10,7 +14,7 @@ body
 
 #cabecera
 {
-    background: #33a;
+    background: rgb(103, 51, 170);
     box-shadow: 0px 2px 20px 0px rgba(0, 0, 0,0.5);
     color: white;
     font-weight: bold;
