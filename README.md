@@ -10,4 +10,4 @@ Un blog increible para el curso de Git y GitHub de Platzi.
 -Trucos locos del profesor
 -Personalidades múltiples de Freddy
 
-Y como un amable recordatorio: **Este rearme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES ENSERIO y mejor ve a ver el curso.
+Y como un amable recordatorio: **Este rearme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES ENSERIO.
