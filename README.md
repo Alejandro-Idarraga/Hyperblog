@@ -9,5 +9,6 @@ Un blog increible para el curso de Git y GitHub de Platzi.
 - La verdadera importancia de las buenas practicas
 -Trucos locos del profesor
 -Personalidades múltiples de Freddy
+-Creado por el super Alejandro Idarraga
 
 Y como un amable recordatorio: **Este rearme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES ENSERIO.
