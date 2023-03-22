@@ -10,5 +10,7 @@ Un blog increible para el curso de Git y GitHub de Platzi.
 -Trucos locos del profesor
 -Personalidades múltiples de Freddy
 -Creado por el super Alejandro Idarraga
+-Incluye ejemplos en Windows, linux y Mac.
+-Disponible para todas las edades
 
 Y como un amable recordatorio: **Este rearme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES ENSERIO.
